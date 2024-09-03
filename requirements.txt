@@ -1,0 +1,10 @@
+bs4
+matplotlib
+numpy
+pandas
+plotly
+seaborn
+selenium
+scikit-learn
+streamlit
+wordcloud
